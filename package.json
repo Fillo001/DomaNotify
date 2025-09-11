@@ -1,18 +1,20 @@
 {
-  "name": "doma-notify",
+  "name": "domanotify",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
+    "install": "npm install --legacy-peer-deps",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "next": "13.4.12",
+    "next": "13.4.10",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "ethers": "^5.7.2"
+    "react-dom": "18.2.0"
   }
-}
-"engines": {
-  "node": "18.x"
 }
