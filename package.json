@@ -1,7 +1,8 @@
+
 {
   "name": "domanotify",
   "version": "1.0.0",
-  "description": "",
+  "description": "DomaNotify Web3 Subscription App",
   "main": "index.js",
   "scripts": {
     "install": "npm install --legacy-peer-deps",
@@ -10,7 +11,7 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "",
+  "author": "SULEIMAN",
   "license": "ISC",
   "dependencies": {
     "next": "13.4.10",
